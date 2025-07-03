@@ -1,7 +1,7 @@
-# Group17MLProject
+# Gold Prices Forecasting
 
 Hi everyone! This is the link to our Machine Learning Project Github Pages.
-https://github.gatech.edu/pages/sdesai328/Group17MLProject/
+
 
 Proposal Video: [Link](https://www.youtube.com/watch?v=OQ27c0DZCqA)
 
